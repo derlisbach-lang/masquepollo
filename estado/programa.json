@@ -1,0 +1,431 @@
+{
+ "slots": [
+  {
+   "id": "2026-11-13T10:30-feed",
+   "fecha": "2026-11-13",
+   "hora": "10:30",
+   "titulo": "Tríptico: Big Full Box",
+   "items": [
+    {
+     "kind": "ig_tri",
+     "pieces": [
+      {
+       "file": "rrss/2026-11-13/feed-3-derecha.jpg",
+       "caption": "¡Armala como querás! 📦 4 opciones de Big Full Box a ₡5.950. ¿Cuál es la tuya? Contanos en los comentarios 👇\n#MásRicoMásJugoso #QuéMásPollo #PolloFrito"
+      },
+      {
+       "file": "rrss/2026-11-13/feed-2-centro.jpg",
+       "caption": "Pollo frito, hamburguesa, tacos y más en una sola caja. 🍗🍔🌮 Solo ₡5.950.\n#MásRicoMásJugoso #QuéMásPollo #PolloFrito"
+      },
+      {
+       "file": "rrss/2026-11-13/feed-1-izquierda.jpg",
+       "caption": "📦 BIG FULL BOX a ₡5.950\n\nBox 1: 1/2 kg de pollo frito + papas pequeñas + hamburguesa + plátanos tostados\nBox 2: 1/2 kg de pollo frito + papas pequeñas + burrito\nBox 3: 300 g de pollo frito + hamburguesa + taco sencillo + plátanos tostados\nBox 4: 1/2 kg de pollo frito + plátanos tostados + hamburguesa + papas pequeñas\n\nPedila en línea: enlace en la bio 👆 o por WhatsApp\n📍 Caribe 8989-8177 · 📍 Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo #PolloFrito #ComboFamiliar"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2026-11-13T11:30-historia",
+   "fecha": "2026-11-13",
+   "hora": "11:30",
+   "titulo": "Historia: box",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-13/historia-1130-box.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-13T15:30-historia",
+   "fecha": "2026-11-13",
+   "hora": "15:30",
+   "titulo": "Historia: pasos",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-13/historia-1530-pasos.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-13T18:30-historia",
+   "fecha": "2026-11-13",
+   "hora": "18:30",
+   "titulo": "Historia: horarios",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-13/historia-1830-horarios.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-14T10:30-feed",
+   "fecha": "2026-11-14",
+   "hora": "10:30",
+   "titulo": "Tríptico: Pollo por kilo",
+   "items": [
+    {
+     "kind": "ig_tri",
+     "pieces": [
+      {
+       "file": "rrss/2026-11-14/feed-3-derecha.jpg",
+       "caption": "A tan solo ₡4.500 el kilo. 🔥 Pedí la cantidad que querás.\n#MásRicoMásJugoso #QuéMásPollo #PolloFrito"
+      },
+      {
+       "file": "rrss/2026-11-14/feed-2-centro.jpg",
+       "caption": "Doradito y extra crujiente por fuera, tierno y jugoso por dentro. 🤤\n#MásRicoMásJugoso #QuéMásPollo #PolloFrito"
+      },
+      {
+       "file": "rrss/2026-11-14/feed-1-izquierda.jpg",
+       "caption": "🍗 Nuestro producto estrella: POLLO FRITO POR KILO a ₡4.500\n\nPara vos solo o para toda la familia. Acompañalo con papas, patacones o nuestras salsas búfalo, BBQ o mostaza miel.\n\n¡Pedilo hoy! Enlace en la bio 👆\n📍 Caribe 8989-8177 (11:00 a. m. a 8:00 p. m.)\n📍 Astúa Pirie 7129-6731 (11:30 a. m. a 8:30 p. m.)\n#MásRicoMásJugoso #QuéMásPollo #PolloFrito #PolloPorKilo"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2026-11-14T11:30-historia",
+   "fecha": "2026-11-14",
+   "hora": "11:30",
+   "titulo": "Historia: pollo-frito",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-14/historia-1130-pollo-frito.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-14T15:30-historia",
+   "fecha": "2026-11-14",
+   "hora": "15:30",
+   "titulo": "Historia: salsas",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-14/historia-1530-salsas.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-14T18:30-historia",
+   "fecha": "2026-11-14",
+   "hora": "18:30",
+   "titulo": "Historia: pasos",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-14/historia-1830-pasos.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-15T10:30-feed",
+   "fecha": "2026-11-15",
+   "hora": "10:30",
+   "titulo": "Tríptico: Platos",
+   "items": [
+    {
+     "kind": "ig_tri",
+     "pieces": [
+      {
+       "file": "rrss/2026-11-15/feed-3-derecha.jpg",
+       "caption": "Nuestro producto estrella 🍗 Crujiente por fuera, jugoso por dentro y por kilo, para que pidás la cantidad que querás.\n\n🍗 ₡4.500 el kilo\n¿Pierna, muslo o pechuga? ¿Cuál es tu pieza favorita? 👇\n\n📲 Pedilo en línea: enlace en la bio\n📍 Caribe 8989-8177 · Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo #PolloFrito #PolloPorKilo"
+      },
+      {
+       "file": "rrss/2026-11-15/feed-2-centro.jpg",
+       "caption": "Dos tacos crujientes, repollo fresquito y salsas 🌮🌮 El antojo tico de siempre.\n\n🌮 Taco doble ₡3.000 · Con papas ₡3.500\n🌮 Sencillo ₡2.500 · Con papas ₡3.000\n\n📲 Pedilo en línea: enlace en la bio\n📍 Caribe 8989-8177 · Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo #TacosTicos"
+      },
+      {
+       "file": "rrss/2026-11-15/feed-1-izquierda.jpg",
+       "caption": "Carne jugosa, queso, tomate, lechuga y papas doraditas 🍔🍟 El combo que siempre provoca.\n\n🍔 Con papas ₡2.800 · Sola ₡2.000\n¿Para el almuerzo o para la cena? 😋\n\n📲 Pedila en línea: enlace en la bio\n📍 Caribe 8989-8177 · Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo #Hamburguesa"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2026-11-15T11:30-historia",
+   "fecha": "2026-11-15",
+   "hora": "11:30",
+   "titulo": "Historia: hamburguesa",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-15/historia-1130-hamburguesa.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-15T15:30-historia",
+   "fecha": "2026-11-15",
+   "hora": "15:30",
+   "titulo": "Historia: taco-doble",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-15/historia-1530-taco-doble.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-15T18:30-historia",
+   "fecha": "2026-11-15",
+   "hora": "18:30",
+   "titulo": "Historia: horarios",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-15/historia-1830-horarios.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-16T10:30-feed",
+   "fecha": "2026-11-16",
+   "hora": "10:30",
+   "titulo": "Tríptico: Antojitos",
+   "items": [
+    {
+     "kind": "ig_tri",
+     "pieces": [
+      {
+       "file": "rrss/2026-11-16/feed-3-derecha.jpg",
+       "caption": "¡La clásica que nunca falla! 🥟 Empanada arreglada rellena de pollo, con repollo y nuestras salsas.\n\n💛 Arreglada ₡1.200 · Sencilla ₡700\n¿Con todo o sencillita? Contanos 👇\n\n📲 Pedila en línea: enlace en la bio\n📍 Caribe 8989-8177 · Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo #Empanada #ComidaTica"
+      },
+      {
+       "file": "rrss/2026-11-16/feed-2-centro.jpg",
+       "caption": "Papas grandes, trocitos de salchicha y salsas por encima 🤤 ¿Hay algo más rico para compartir?\n\n🍟 Salchipapas ₡3.000\nEtiquetá a quien te debe unas salchipapas 👇\n\n📲 Pedilas en línea: enlace en la bio\n📍 Caribe 8989-8177 · Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo #Salchipapas"
+      },
+      {
+       "file": "rrss/2026-11-16/feed-1-izquierda.jpg",
+       "caption": "Doraditas por fuera, suavecitas por dentro 🍟 Nuestras papas van con todo… o solitas, también son un antojo.\n\n🍟 Pequeñas ₡1.500 · Grandes ₡2.500\nAcompañalas con salsa búfalo, BBQ o mostaza miel.\n\n📲 Pedí en línea: enlace en la bio\n📍 Caribe 8989-8177 · Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo #PapasFritas"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2026-11-16T11:30-historia",
+   "fecha": "2026-11-16",
+   "hora": "11:30",
+   "titulo": "Historia: papas",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-16/historia-1130-papas.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-16T15:30-historia",
+   "fecha": "2026-11-16",
+   "hora": "15:30",
+   "titulo": "Historia: salchipapas",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-16/historia-1530-salchipapas.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-16T18:30-historia",
+   "fecha": "2026-11-16",
+   "hora": "18:30",
+   "titulo": "Historia: empanada",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-16/historia-1830-empanada.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-17T10:30-feed",
+   "fecha": "2026-11-17",
+   "hora": "10:30",
+   "titulo": "Tríptico: Bubble tea",
+   "items": [
+    {
+     "kind": "ig_tri",
+     "pieces": [
+      {
+       "file": "rrss/2026-11-17/feed-3-derecha.jpg",
+       "caption": "Suave, dulce y cremoso 🤍 Nuestro bubble tea White Rabbit con perlas explosivas que estallan en cada sorbo.\n\n🧋 24 oz · ₡2.800\n¿Ya lo probaste? Contanos en los comentarios 👇\n\n📲 Pedilo en línea: enlace en la bio\n📍 Caribe 8989-8177 · Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo #BubbleTea #WhiteRabbit"
+      },
+      {
+       "file": "rrss/2026-11-17/feed-2-centro.jpg",
+       "caption": "Un sorbo de trópico 🥭☀️ Bubble tea de mango con perlas explosivas: frío, frutal y bien rico.\n\n🧋 24 oz · ₡2.800\nEtiquetá a esa persona con la que te lo tomarías 👇\n\n📲 Pedilo en línea: enlace en la bio\n📍 Caribe 8989-8177 · Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo #BubbleTea #Mango"
+      },
+      {
+       "file": "rrss/2026-11-17/feed-1-izquierda.jpg",
+       "caption": "¡Refrescá tu día! 🍓 Bubble tea de fresa, cremoso y con perlas explosivas que estallan en tu boca.\n\n🧋 24 oz · ₡2.800\nTenemos fresa, mango y white rabbit, y más sabores en el local. ¿Cuál es tu favorito? 🍓🥭🤍\n\n📲 Pedilo en línea: enlace en la bio\n📍 Caribe 8989-8177 · Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo #BubbleTea #Fresa"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2026-11-17T11:30-historia",
+   "fecha": "2026-11-17",
+   "hora": "11:30",
+   "titulo": "Historia: bt-fresa",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-17/historia-1130-bt-fresa.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-17T15:30-historia",
+   "fecha": "2026-11-17",
+   "hora": "15:30",
+   "titulo": "Historia: bt-mango",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-17/historia-1530-bt-mango.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-17T18:30-historia",
+   "fecha": "2026-11-17",
+   "hora": "18:30",
+   "titulo": "Historia: bt-white",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-17/historia-1830-bt-white.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-18T10:30-feed",
+   "fecha": "2026-11-18",
+   "hora": "10:30",
+   "titulo": "Tríptico: Para acompañar",
+   "items": [
+    {
+     "kind": "ig_tri",
+     "pieces": [
+      {
+       "file": "rrss/2026-11-18/feed-3-derecha.jpg",
+       "caption": "¡Tu pedido trae más! 🎁 Preguntá por las regalías: salsas, platanitos, escabeche de banano o chips de tortilla.\n\nConsultá cuáles están disponibles cuando hagás tu pedido 😉\n\n📲 Pedí en línea: enlace en la bio\n📍 Caribe 8989-8177 · Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo #PolloFrito"
+      },
+      {
+       "file": "rrss/2026-11-18/feed-2-centro.jpg",
+       "caption": "Elegí tu salsa y dale más sabor a tu pollo 🔥 Búfalo, BBQ o mostaza miel. ¿Team picante o team dulce?\n\n🥫 2 oz · ₡600\nVotá en los comentarios: 🔥 búfalo · 🍖 BBQ · 🍯 mostaza miel\n\n📲 Pedí en línea: enlace en la bio\n📍 Caribe 8989-8177 · Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo #Salsas"
+      },
+      {
+       "file": "rrss/2026-11-18/feed-1-izquierda.jpg",
+       "caption": "Tajadas finas de plátano, doraditas y crujientes 🍌 ¡No vas a poder parar!\n\n🍌 Chips de platanito ₡600 · También de tortilla ₡600\nY si te gusta lo caribeño, probá el bananito en escabeche ₡700.\n\n📲 Pedí en línea: enlace en la bio\n📍 Caribe 8989-8177 · Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo #Platanitos #SaborCaribeño"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2026-11-18T11:30-historia",
+   "fecha": "2026-11-18",
+   "hora": "11:30",
+   "titulo": "Historia: platanitos",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-18/historia-1130-platanitos.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-18T15:30-historia",
+   "fecha": "2026-11-18",
+   "hora": "15:30",
+   "titulo": "Historia: regalias",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-18/historia-1530-regalias.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-18T18:30-historia",
+   "fecha": "2026-11-18",
+   "hora": "18:30",
+   "titulo": "Historia: box",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-18/historia-1830-box.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19T10:30-feed",
+   "fecha": "2026-11-19",
+   "hora": "10:30",
+   "titulo": "Tríptico: Dulce y frío",
+   "items": [
+    {
+     "kind": "ig_tri",
+     "pieces": [
+      {
+       "file": "rrss/2026-11-19/feed-3-derecha.jpg",
+       "caption": "Un conito después del pollo nunca está de más 🍦 Combiná tus sabores favoritos.\n\n🍦 1 bola ₡600 · 2 bolas ₡800 · 3 bolas ₡1.500\n¿Cuántas bolas te comés? 👇\n\n📲 Pedí en línea: enlace en la bio\n📍 Caribe 8989-8177 · Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo #Helados"
+      },
+      {
+       "file": "rrss/2026-11-19/feed-2-centro.jpg",
+       "caption": "Espeso, cremoso y frutal 🥤 Nuestro batido con helado es para consentirte.\n\n🥤 24 oz · ₡2.600\nEtiquetá a quien se merece uno hoy 💛\n\n📲 Pedilo en línea: enlace en la bio\n📍 Caribe 8989-8177 · Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo #Batidos"
+      },
+      {
+       "file": "rrss/2026-11-19/feed-1-izquierda.jpg",
+       "caption": "Fruta de verdad, bien fríos y en 24 oz 🍓🥭 Para refrescarte con este calorcito.\n\n🥤 En agua ₡1.500 · En leche ₡2.000\n¡Preguntá por los sabores del día!\n\n📲 Pedilo en línea: enlace en la bio\n📍 Caribe 8989-8177 · Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo #Batidos #Smoothies"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19T11:30-historia",
+   "fecha": "2026-11-19",
+   "hora": "11:30",
+   "titulo": "Historia: batido-agua",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-19/historia-1130-batido-agua.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19T15:30-historia",
+   "fecha": "2026-11-19",
+   "hora": "15:30",
+   "titulo": "Historia: batido-helado",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-19/historia-1530-batido-helado.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-19T18:30-historia",
+   "fecha": "2026-11-19",
+   "hora": "18:30",
+   "titulo": "Historia: conos",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-19/historia-1830-conos.jpg"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+name: Publicar Qué Pollo
+
+on:
+  schedule:
+    # Cada 30 min de 10:05 a. m. a 6:35 p. m. CR (UTC = CR + 6 h). Repo público: los minutos de Actions no se cobran.
+    # GitHub puede atrasar estos disparos; el respaldo recomendado es una tarea en cron-job.org ("Qué Pollo publicar").
+    - cron: '5,35 16-23 * * *'
+    - cron: '5,35 0 * * *'
+  workflow_dispatch:
+    inputs:
+      comando:
+        description: 'tick | check-token | status | run --slot ID'
+        default: tick
+
+concurrency:
+  group: publicar
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publicar
+        env:
+          META_TOKEN: ${{ secrets.META_TOKEN }}
+          COMANDO: ${{ github.event.inputs.comando || 'tick' }}
+        run: python3 -I publicar.py $COMANDO
+      - name: Guardar estado
+        if: always()
+        run: |
+          git config user.name "publicar-quepollo"
+          git config user.email "actions@users.noreply.github.com"
+          git add estado/
+          git diff --cached --quiet && exit 0
+          git commit -qm "estado $(TZ=America/Costa_Rica date '+%Y-%m-%d %H:%M')"
+          for i in 1 2 3; do git pull -q --rebase && git push -q && exit 0; sleep 5; done
+          exit 1
