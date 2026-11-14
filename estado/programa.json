@@ -426,6 +426,677 @@
      "file": "rrss/2026-11-19/historia-1830-conos.jpg"
     }
    ]
+  },
+  {
+   "id": "2026-11-20T10:30-feed",
+   "fecha": "2026-11-20",
+   "hora": "10:30",
+   "titulo": "Tríptico: Viernes de antojo",
+   "items": [
+    {
+     "kind": "ig_tri",
+     "pieces": [
+      {
+       "file": "rrss/2026-11-20/feed-3-derecha.jpg",
+       "caption": "¿Hamburguesa, taco doble o salchipapas? Contanos cuál te toca hoy 👇\n#MásRicoMásJugoso #QuéMásPollo #ViernesDeAntojo"
+      },
+      {
+       "file": "rrss/2026-11-20/feed-2-centro.jpg",
+       "caption": "Hamburguesa con papas a ₡2.800. Viernes se vale todo 🍔🍟\n#MásRicoMásJugoso #QuéMásPollo"
+      },
+      {
+       "file": "rrss/2026-11-20/feed-1-izquierda.jpg",
+       "caption": "¡Hoy se vale todo! Cerrá la semana con algo rico:\n\n🍔 Hamburguesa con papas ₡2.800\n🌮 Taco doble ₡3.000 (con papas ₡3.500)\n🍟 Salchipapas ₡3.000\n\nPedí en línea: enlace en la bio 👆 o por WhatsApp\n📍 Caribe 8989-8177 · 📍 Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo #ViernesDeAntojo"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2026-11-20T11:30-historia",
+   "fecha": "2026-11-20",
+   "hora": "11:30",
+   "titulo": "Historia: hamburguesa",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-20/historia-1130-hamburguesa.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-20T15:30-historia",
+   "fecha": "2026-11-20",
+   "hora": "15:30",
+   "titulo": "Historia: antojo",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-20/historia-1530-antojo.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-20T18:30-historia",
+   "fecha": "2026-11-20",
+   "hora": "18:30",
+   "titulo": "Historia: taco-doble",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-20/historia-1830-taco-doble.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21T10:30-feed",
+   "fecha": "2026-11-21",
+   "hora": "10:30",
+   "titulo": "Tríptico: Finde en familia",
+   "items": [
+    {
+     "kind": "ig_tri",
+     "pieces": [
+      {
+       "file": "rrss/2026-11-21/feed-3-derecha.jpg",
+       "caption": "Pollo frito, Big Full Box y papas grandes: la mesa lista sin cocinar 🍗\n#MásRicoMásJugoso #QuéMásPollo #FindeEnFamilia"
+      },
+      {
+       "file": "rrss/2026-11-21/feed-2-centro.jpg",
+       "caption": "¡A compartir! Pollo frito a ₡4.500 el kilo 🍗\n#MásRicoMásJugoso #QuéMásPollo"
+      },
+      {
+       "file": "rrss/2026-11-21/feed-1-izquierda.jpg",
+       "caption": "Finde en familia 👨‍👩‍👧‍👦 Pollo para todos y algo para picar:\n\n🍗 Pollo frito ₡4.500 el kilo\n📦 Big Full Box ₡5.950 (4 cajas para elegir)\n🍟 Papas grandes ₡2.500\n\nPedí en línea: enlace en la bio 👆 o por WhatsApp\n📍 Caribe 8989-8177 · 📍 Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo #FindeEnFamilia"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21T11:30-historia",
+   "fecha": "2026-11-21",
+   "hora": "11:30",
+   "titulo": "Historia: finde",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-21/historia-1130-finde.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21T15:30-historia",
+   "fecha": "2026-11-21",
+   "hora": "15:30",
+   "titulo": "Historia: pollo-frito",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-21/historia-1530-pollo-frito.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-21T18:30-historia",
+   "fecha": "2026-11-21",
+   "hora": "18:30",
+   "titulo": "Historia: box",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-21/historia-1830-box.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-22T10:30-feed",
+   "fecha": "2026-11-22",
+   "hora": "10:30",
+   "titulo": "Tríptico: Domingo de salsas",
+   "items": [
+    {
+     "kind": "ig_tri",
+     "pieces": [
+      {
+       "file": "rrss/2026-11-22/feed-3-derecha.jpg",
+       "caption": "A) Búfalo B) Mostaza miel C) BBQ. ¿Cuál es la tuya? Comentá tu favorita 👇\n#MásRicoMásJugoso #QuéMásPollo"
+      },
+      {
+       "file": "rrss/2026-11-22/feed-2-centro.jpg",
+       "caption": "Cada salsa de 2 oz a ₡600 🔥🍯\n#MásRicoMásJugoso #QuéMásPollo"
+      },
+      {
+       "file": "rrss/2026-11-22/feed-1-izquierda.jpg",
+       "caption": "¿Y la salsa pa'l pollo? Crujiente por fuera, jugoso por dentro… y con la salsa que más te guste: búfalo, mostaza miel o BBQ, ₡600 cada una.\n\nPedí en línea: enlace en la bio 👆 o por WhatsApp\n📍 Caribe 8989-8177 · 📍 Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo #PolloFrito"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2026-11-22T11:30-historia",
+   "fecha": "2026-11-22",
+   "hora": "11:30",
+   "titulo": "Historia: salsas",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-22/historia-1130-salsas.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-22T15:30-historia",
+   "fecha": "2026-11-22",
+   "hora": "15:30",
+   "titulo": "Historia: horarios",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-22/historia-1530-horarios.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-22T18:30-historia",
+   "fecha": "2026-11-22",
+   "hora": "18:30",
+   "titulo": "Historia: salchipapas",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-22/historia-1830-salchipapas.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-23T10:30-feed",
+   "fecha": "2026-11-23",
+   "hora": "10:30",
+   "titulo": "Tríptico: Pierna, muslo o pechuga",
+   "items": [
+    {
+     "kind": "ig_tri",
+     "pieces": [
+      {
+       "file": "rrss/2026-11-23/feed-3-derecha.jpg",
+       "caption": "Votá aquí: A) Pierna B) Muslo C) Pechuga. Respondé con la letra 👇\n#MásRicoMásJugoso #QuéMásPollo"
+      },
+      {
+       "file": "rrss/2026-11-23/feed-2-centro.jpg",
+       "caption": "¡Qué rico! Pollo frito a ₡4.500 el kilo 🍗\n#MásRicoMásJugoso #QuéMásPollo"
+      },
+      {
+       "file": "rrss/2026-11-23/feed-1-izquierda.jpg",
+       "caption": "Pregunta seria: ¿pierna, muslo o pechuga? 🤔 Todos tenemos una pieza favorita. Contanos la tuya en los comentarios.\n\nPollo frito ₡4.500 el kilo\n📍 Caribe 8989-8177 · 📍 Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo #PolloFrito"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2026-11-23T11:30-historia",
+   "fecha": "2026-11-23",
+   "hora": "11:30",
+   "titulo": "Historia: pregunta",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-23/historia-1130-pregunta.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-23T15:30-historia",
+   "fecha": "2026-11-23",
+   "hora": "15:30",
+   "titulo": "Historia: papas",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-23/historia-1530-papas.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-23T18:30-historia",
+   "fecha": "2026-11-23",
+   "hora": "18:30",
+   "titulo": "Historia: empanada",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-23/historia-1830-empanada.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-24T10:30-feed",
+   "fecha": "2026-11-24",
+   "hora": "10:30",
+   "titulo": "Tríptico: Pedí en línea",
+   "items": [
+    {
+     "kind": "ig_tri",
+     "pieces": [
+      {
+       "file": "rrss/2026-11-24/feed-3-derecha.jpg",
+       "caption": "1. Elegí tu sucursal 2. Armá tu pedido 3. Envialo por WhatsApp. ¡Listo! ✅\n#MásRicoMásJugoso #QuéMásPollo"
+      },
+      {
+       "file": "rrss/2026-11-24/feed-2-centro.jpg",
+       "caption": "¡Facilito! Todo el menú en masquepollo.figma.site 📲\n#MásRicoMásJugoso #QuéMásPollo"
+      },
+      {
+       "file": "rrss/2026-11-24/feed-1-izquierda.jpg",
+       "caption": "Pedí en línea, sin filas y sin llamadas 📲\n\n1️⃣ Elegí tu sucursal: Caribe o Astúa Pirie\n2️⃣ Armá tu pedido a tu gusto\n3️⃣ Envialo por WhatsApp y listo\n\nmasquepollo.figma.site (enlace en la bio 👆)\n📍 Caribe 8989-8177 · 📍 Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2026-11-24T11:30-historia",
+   "fecha": "2026-11-24",
+   "hora": "11:30",
+   "titulo": "Historia: pasos",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-24/historia-1130-pasos.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-24T15:30-historia",
+   "fecha": "2026-11-24",
+   "hora": "15:30",
+   "titulo": "Historia: salchipapas",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-24/historia-1530-salchipapas.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-24T18:30-historia",
+   "fecha": "2026-11-24",
+   "hora": "18:30",
+   "titulo": "Historia: bt-fresa",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-24/historia-1830-bt-fresa.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-25T10:30-feed",
+   "fecha": "2026-11-25",
+   "hora": "10:30",
+   "titulo": "Tríptico: ¿Algo frío?",
+   "items": [
+    {
+     "kind": "ig_tri",
+     "pieces": [
+      {
+       "file": "rrss/2026-11-25/feed-3-derecha.jpg",
+       "caption": "Bubble tea ₡2.800 · Batido con helado ₡2.600 · Conos ₡600 🧋🍦\n#MásRicoMásJugoso #QuéMásPollo"
+      },
+      {
+       "file": "rrss/2026-11-25/feed-2-centro.jpg",
+       "caption": "Bubble tea de 24 oz con perlas explosivas a ₡2.800 🧋\n#MásRicoMásJugoso #QuéMásPollo #BubbleTea"
+      },
+      {
+       "file": "rrss/2026-11-25/feed-1-izquierda.jpg",
+       "caption": "¿Algo frío? Para el calor de la tarde:\n\n🧋 Bubble tea (fresa, mango, white rabbit) ₡2.800\n🥤 Batido con helado ₡2.600\n🍦 Conos de helado: 1 bola ₡600 · 2 bolas ₡800\n\nPedí el tuyo: enlace en la bio 👆 o por WhatsApp\n📍 Caribe 8989-8177 · 📍 Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2026-11-25T11:30-historia",
+   "fecha": "2026-11-25",
+   "hora": "11:30",
+   "titulo": "Historia: antojo",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-25/historia-1130-antojo.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-25T15:30-historia",
+   "fecha": "2026-11-25",
+   "hora": "15:30",
+   "titulo": "Historia: bt-mango",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-25/historia-1530-bt-mango.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-25T18:30-historia",
+   "fecha": "2026-11-25",
+   "hora": "18:30",
+   "titulo": "Historia: batido-helado",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-25/historia-1830-batido-helado.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-26T10:30-feed",
+   "fecha": "2026-11-26",
+   "hora": "10:30",
+   "titulo": "Tríptico: Para picar",
+   "items": [
+    {
+     "kind": "ig_tri",
+     "pieces": [
+      {
+       "file": "rrss/2026-11-26/feed-3-derecha.jpg",
+       "caption": "Papas fritas ₡1.500 · Chips de platanito ₡600 · Empanada arreglada ₡1.200 🍟\n#MásRicoMásJugoso #QuéMásPollo"
+      },
+      {
+       "file": "rrss/2026-11-26/feed-2-centro.jpg",
+       "caption": "Papas pequeñas a ₡1.500, doraditas y crujientes 🍟\n#MásRicoMásJugoso #QuéMásPollo"
+      },
+      {
+       "file": "rrss/2026-11-26/feed-1-izquierda.jpg",
+       "caption": "¡Crunch, crunch! Antojitos doraditos para acompañar tu pollo o para comer solos:\n\n🍟 Papas fritas ₡1.500 (grandes ₡2.500)\n🍌 Chips de platanito ₡600\n🥟 Empanada arreglada ₡1.200 (sencilla ₡700)\n\nPedí ya: enlace en la bio 👆 o por WhatsApp\n📍 Caribe 8989-8177 · 📍 Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2026-11-26T11:30-historia",
+   "fecha": "2026-11-26",
+   "hora": "11:30",
+   "titulo": "Historia: papas",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-26/historia-1130-papas.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-26T15:30-historia",
+   "fecha": "2026-11-26",
+   "hora": "15:30",
+   "titulo": "Historia: platanitos",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-26/historia-1530-platanitos.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-26T18:30-historia",
+   "fecha": "2026-11-26",
+   "hora": "18:30",
+   "titulo": "Historia: regalias",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-26/historia-1830-regalias.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-27T10:30-feed",
+   "fecha": "2026-11-27",
+   "hora": "10:30",
+   "titulo": "Tríptico: Crujiente por fuera",
+   "items": [
+    {
+     "kind": "ig_tri",
+     "pieces": [
+      {
+       "file": "rrss/2026-11-27/feed-3-derecha.jpg",
+       "caption": "Doradito y crujiente, tierno y jugoso, y por kilo: pedí la cantidad que querás 🍗\n#MásRicoMásJugoso #QuéMásPollo"
+      },
+      {
+       "file": "rrss/2026-11-27/feed-2-centro.jpg",
+       "caption": "Pollo frito a ₡4.500 el kilo 🍗\n#MásRicoMásJugoso #QuéMásPollo #PolloFrito"
+      },
+      {
+       "file": "rrss/2026-11-27/feed-1-izquierda.jpg",
+       "caption": "Crujiente por fuera, tierno y jugoso por dentro. Así es nuestro pollo frito, pieza por pieza 🍗\n\n₡4.500 el kilo\nPedilo hoy: enlace en la bio 👆 o por WhatsApp\n📍 Caribe 8989-8177 · 📍 Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo #PolloFrito"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2026-11-27T11:30-historia",
+   "fecha": "2026-11-27",
+   "hora": "11:30",
+   "titulo": "Historia: pollo-frito",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-27/historia-1130-pollo-frito.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-27T15:30-historia",
+   "fecha": "2026-11-27",
+   "hora": "15:30",
+   "titulo": "Historia: salsas",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-27/historia-1530-salsas.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-27T18:30-historia",
+   "fecha": "2026-11-27",
+   "hora": "18:30",
+   "titulo": "Historia: horarios",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-27/historia-1830-horarios.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-28T10:30-feed",
+   "fecha": "2026-11-28",
+   "hora": "10:30",
+   "titulo": "Tríptico: Nuestras sucursales",
+   "items": [
+    {
+     "kind": "ig_tri",
+     "pieces": [
+      {
+       "file": "rrss/2026-11-28/feed-3-derecha.jpg",
+       "caption": "Caribe: todos los días 11:00 a. m. a 8:00 p. m. · Astúa Pirie: todos los días 11:30 a. m. a 8:30 p. m.\n#MásRicoMásJugoso #QuéMásPollo"
+      },
+      {
+       "file": "rrss/2026-11-28/feed-2-centro.jpg",
+       "caption": "¡Visitanos! Te esperamos todos los días 📍\n#MásRicoMásJugoso #QuéMásPollo"
+      },
+      {
+       "file": "rrss/2026-11-28/feed-1-izquierda.jpg",
+       "caption": "¡Cerquita de vos! Dos sucursales para que tu pollo llegue rápido y calientito:\n\n📍 Caribe · todos los días 11:00 a. m. a 8:00 p. m. · WhatsApp 8989-8177\n📍 Astúa Pirie · todos los días 11:30 a. m. a 8:30 p. m. · WhatsApp 7129-6731\n\n#MásRicoMásJugoso #QuéMásPollo"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2026-11-28T11:30-historia",
+   "fecha": "2026-11-28",
+   "hora": "11:30",
+   "titulo": "Historia: finde",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-28/historia-1130-finde.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-28T15:30-historia",
+   "fecha": "2026-11-28",
+   "hora": "15:30",
+   "titulo": "Historia: box",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-28/historia-1530-box.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-28T18:30-historia",
+   "fecha": "2026-11-28",
+   "hora": "18:30",
+   "titulo": "Historia: conos",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-28/historia-1830-conos.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-29T10:30-feed",
+   "fecha": "2026-11-29",
+   "hora": "10:30",
+   "titulo": "Tríptico: Fruta de verdad",
+   "items": [
+    {
+     "kind": "ig_tri",
+     "pieces": [
+      {
+       "file": "rrss/2026-11-29/feed-3-derecha.jpg",
+       "caption": "En agua ₡1.500 · En leche ₡2.000 · Con helado ₡2.600. ¡Elegí el tuyo! 🥤\n#MásRicoMásJugoso #QuéMásPollo"
+      },
+      {
+       "file": "rrss/2026-11-29/feed-2-centro.jpg",
+       "caption": "Batidos de 24 oz desde ₡1.500 🍓🥭\n#MásRicoMásJugoso #QuéMásPollo #Batidos"
+      },
+      {
+       "file": "rrss/2026-11-29/feed-1-izquierda.jpg",
+       "caption": "Fruta de verdad 🍓🥭🍌 Batidos de 24 oz para acompañar tu comida o para la tarde:\n\n🥤 En agua ₡1.500\n🥛 En leche ₡2.000\n🍦 Con helado ₡2.600\n\nPreguntá los sabores por WhatsApp\n📍 Caribe 8989-8177 · 📍 Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo #Batidos"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2026-11-29T11:30-historia",
+   "fecha": "2026-11-29",
+   "hora": "11:30",
+   "titulo": "Historia: batido-agua",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-29/historia-1130-batido-agua.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-29T15:30-historia",
+   "fecha": "2026-11-29",
+   "hora": "15:30",
+   "titulo": "Historia: bt-white",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-29/historia-1530-bt-white.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-29T18:30-historia",
+   "fecha": "2026-11-29",
+   "hora": "18:30",
+   "titulo": "Historia: hamburguesa",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-29/historia-1830-hamburguesa.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-30T10:30-feed",
+   "fecha": "2026-11-30",
+   "hora": "10:30",
+   "titulo": "Tríptico: ¡Llegó la quincena!",
+   "items": [
+    {
+     "kind": "ig_tri",
+     "pieces": [
+      {
+       "file": "rrss/2026-11-30/feed-3-derecha.jpg",
+       "caption": "Box 1, 2, 3 o 4: ¿cuál te toca esta quincena? Contanos 👇\n#MásRicoMásJugoso #QuéMásPollo #Quincena"
+      },
+      {
+       "file": "rrss/2026-11-30/feed-2-centro.jpg",
+       "caption": "¡A celebrar! Big Full Box a ₡5.950 📦\n#MásRicoMásJugoso #QuéMásPollo"
+      },
+      {
+       "file": "rrss/2026-11-30/feed-1-izquierda.jpg",
+       "caption": "¡Llegó la quincena! Y se celebra como se debe: con una Big Full Box para compartir 📦 ₡5.950\n\nBox 1: 1/2 kg de pollo + papas + hamburguesa + plátanos\nBox 2: 1/2 kg de pollo + papas + burrito\nBox 3: 300 g de pollo + hamburguesa + taco + plátanos\nBox 4: 1/2 kg de pollo + plátanos + hamburguesa + papas\n\nPedila hoy: enlace en la bio 👆 o por WhatsApp\n📍 Caribe 8989-8177 · 📍 Astúa Pirie 7129-6731\n#MásRicoMásJugoso #QuéMásPollo #Quincena"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2026-11-30T11:30-historia",
+   "fecha": "2026-11-30",
+   "hora": "11:30",
+   "titulo": "Historia: quincena",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-30/historia-1130-quincena.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-30T15:30-historia",
+   "fecha": "2026-11-30",
+   "hora": "15:30",
+   "titulo": "Historia: taco-doble",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-30/historia-1530-taco-doble.jpg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-30T18:30-historia",
+   "fecha": "2026-11-30",
+   "hora": "18:30",
+   "titulo": "Historia: pasos",
+   "items": [
+    {
+     "kind": "ig_story",
+     "file": "rrss/2026-11-30/historia-1830-pasos.jpg"
+    }
+   ]
   }
  ]
 }
