@@ -25,6 +25,8 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main   # punta actual de main, no el commit del disparo (evita estado viejo y publicaciones dobles)
       - name: Publicar
         env:
           META_TOKEN: ${{ secrets.META_TOKEN }}
